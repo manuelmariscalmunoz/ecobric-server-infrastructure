@@ -1,0 +1,15 @@
+.env
+src/config/api_keys.php
+src/config/db.php
+
+db_data/
+grafana_data/
+kuma_data/
+npm_data/
+npm_ssl/
+portainer_data/
+
+dev_tools/venv/
+
+.DS_Store
+Thumbs.db
